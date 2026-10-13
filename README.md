@@ -1,6 +1,6 @@
-## Esercizitazione javascript
+# Esercizitazione javascript
 
-# Traccia
+## Traccia
   Obiettivo
   due variabili che cambiano a ogni giro.
 
