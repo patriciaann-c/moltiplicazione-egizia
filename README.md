@@ -1,4 +1,4 @@
-# 🇪🇬 Ancient Egyptian Multiplication in JavaScript
+# Ancient Egyptian Multiplication in JavaScript
 
 > A practical logic and algorithms exercise: implementing the **Egyptian multiplication** method (also known as the *Russian peasant multiplication*).
 
